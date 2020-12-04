@@ -1,0 +1,10 @@
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\obj\Debug\CalculatorProjectDraft.Form1.resources
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\obj\Debug\CalculatorProjectDraft.Properties.Resources.resources
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\obj\Debug\CalculatorProjectDraft.csproj.GenerateResource.cache
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\obj\Debug\CalculatorProjectDraft.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\bin\Debug\CalculatorProjectDraft.exe.config
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\bin\Debug\CalculatorProjectDraft.exe
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\bin\Debug\CalculatorProjectDraft.pdb
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\obj\Debug\CalculatorProjectDraft.exe
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\obj\Debug\CalculatorProjectDraft.pdb
+C:\Users\santi\source\repos\CalculatorProjectDraft\CalculatorProjectDraft\obj\Debug\CalculatorProjectDraft.csprojAssemblyReference.cache
